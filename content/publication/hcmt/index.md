@@ -1,19 +1,12 @@
 ---
-title: "An example conference paper"
+title: "Three Directions for the Design of Human-Centered Machine Translation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors:
-- admin
-- Robert Ford
+authors: ["Samantha Robertson", "Wesley Hanwen Deng", "Timnit Gebru", "Margaret Mitchell", "Daniel J. Liebling", "Michal Lahav", "Katherine Heller", "Mark Díaz", "Samy Bengio", "Niloufar Salehi"]
 
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+date: "2021-04-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,18 +16,18 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: "HCI + NLP Workshop at EACL 2021"
+publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "As people all over the world adopt machine translation (MT) to communicate across languages, there is increased need for affordances that aid users in understanding when to rely on automated translations. Identifying the information and interactions that will most help users meet their translation needs is an open area of research at the intersection of Human-Computer Interaction (HCI) and Natural Language Processing (NLP). This paper advances work in this area by drawing on a survey of users' strategies in assessing translations. We identify three directions for the design of translation systems that support more reliable and effective use of machine translation: helping users craft good inputs, helping users understand translations, and expanding interactivity and adaptivity. We describe how these can be introduced in current MT systems and highlight open questions for HCI and NLP research."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
-tags: []
+tags: ["machine translation", "human-centered design"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,10 +37,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'hcmt.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'hcmt_poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -65,23 +58,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
