@@ -20,7 +20,7 @@ bio:
 interests:
 - Human-Centered AI
 - Data Ethics
-- Health
+- ML for healthcare
 
 # Education to show in About widget
 education:
@@ -67,4 +67,4 @@ email: ""
 highlight_name: false
 ---
 
-:wave: Hi! I'm a third year Ph.D. student in [EECS](https://eecs.berkeley.edu/) at [U.C. Berkeley](https://www.berkeley.edu/) advised by [Dr. Niloufar Salehi](http://niloufar.org) and [Dr. Moritz Hardt](https://mrtz.org/).  My research is at the intersection of human-computer interaction and machine learning. I'm especially excited about human-centered and participatory approaches to designing algorithmic systems that are transparent, reliable, and responsive to community values and needs. My current projects include engaging community members in the design of student assignment algorithms, developing more reliable and interactive machine translation systems, and analyzing data from a health tracking app to understand factors influencing adolescent menstrual health. In Fall 2021, I am a part-time Student Researcher at Google, where I work on the Ethical AI team, advised by [Dr. Mark Díaz](https://markjdiaz.com/). We are conducting a mixed method study to understand users' perspectives on machine translation quality in conversational settings.
+:wave: Hi! I'm a third year Ph.D. candidate in [EECS](https://eecs.berkeley.edu/) at [U.C. Berkeley](https://www.berkeley.edu/) advised by [Dr. Niloufar Salehi](http://niloufar.org). My research applies human-computer interaction (HCI) methods to study machine learning and data systems. I'm currently thinking about how we can build trustworthy systems by aligning modeling assumptions with real world needs and goals, and prioritizing user agency. My current projects include developing more reliable machine translation systems for high-stakes domains like healthcare, analyzing data from a health tracking app to understand factors influencing adolescent menstrual health, and extracting and exploring patterns in messy text data. For Summer 2022, I will be an ML Research Intern on the Human-Centered Machine Intelligence Visualization team at Apple, supervised by [Dr. Fred Hohman](https://fredhohman.com/) and [Dr. Mary Beth Kery](https://marybethkery.com/).
