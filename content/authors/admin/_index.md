@@ -19,6 +19,7 @@ bio:
 # Interests to show in About widget
 interests:
 - Human-Centered AI
+- Data Visualization
 - Data Ethics
 - ML for healthcare
 
@@ -67,4 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-:wave: Hi! I'm a third year Ph.D. candidate in [EECS](https://eecs.berkeley.edu/) at [U.C. Berkeley](https://www.berkeley.edu/) advised by [Dr. Niloufar Salehi](http://niloufar.org). My research applies human-computer interaction (HCI) methods to study machine learning and data systems. I'm currently thinking about how we can build trustworthy systems by aligning modeling assumptions with real world needs and goals, and prioritizing user agency. My current projects include developing more reliable machine translation systems for high-stakes domains like healthcare, analyzing data from a health tracking app to understand factors influencing adolescent menstrual health, and extracting and exploring patterns in messy text data. For Summer 2022, I will be an ML Research Intern on the Human-Centered Machine Intelligence Visualization team at Apple, supervised by [Dr. Fred Hohman](https://fredhohman.com/) and [Dr. Mary Beth Kery](https://marybethkery.com/).
+:wave: Hi! I'm a fourth year Ph.D. candidate in [EECS](https://eecs.berkeley.edu/) at [U.C. Berkeley](https://www.berkeley.edu/) advised by [Dr. Niloufar Salehi](http://niloufar.org). My research applies human-computer interaction (HCI) methods to study machine learning and data systems. I'm currently thinking about how we can build trustworthy systems by aligning modeling assumptions with real world needs and goals, and prioritizing user agency. My current projects include developing more reliable machine translation systems for high-stakes domains like healthcare, and exploring what participant engagement might look like in the context of large-scale menstrual health research. 
+
+During Summer 2022, I was an ML Research Intern on the Visualization team at Apple, supervised by [Dr. Fred Hohman](https://fredhohman.com/) and [Dr. Mary Beth Kery](https://marybethkery.com/).

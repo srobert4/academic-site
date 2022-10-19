@@ -25,10 +25,10 @@ publication_types: ["1"]
 publication: ACM Conference on Fairness, Accountability, and Transparency 2022
 publication_short: ACM FAccT 2022
 
-abstract: 
+abstract: Language barriers between patients and clinicians contribute to disparities in quality of care. Machine Translation (MT) tools are widely used in healthcare settings, but even small mistranslations can have life-threatening consequences. We study how MT is currently used in medical settings through a qualitative interview study with 20 clinicians–physicians, surgeons, nurses, and midwives. We find that clinicians face challenges stemming from lack of time and resources, cultural barriers, and medical literacy rates, as well as accountability in cases of miscommunication. Clinicians have devised strategies to aid communication in the face of language barriers including back translation, non-verbal communication, and testing patient understanding. We propose design implications for machine translation systems including combining neural MT with pre-translated medical phrases, integrating translation support with multimodal communication, and providing interactive support for testing mutual understanding.
 
 # Summary. An optional shortened abstract.
-summary: "Coming soon."
+summary: 
 
 tags: []
 
@@ -40,7 +40,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/10.1145/3531146.3533244'
 url_code: ''
 url_dataset: ''
 url_poster: ''
