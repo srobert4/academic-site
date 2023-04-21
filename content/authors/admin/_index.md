@@ -20,7 +20,6 @@ bio:
 interests:
 - Human-Centered AI
 - Data Visualization
-- Data Ethics
 - ML for healthcare
 
 # Education to show in About widget
@@ -68,6 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-:wave: Hi! I'm a fourth year Ph.D. candidate in [EECS](https://eecs.berkeley.edu/) at [U.C. Berkeley](https://www.berkeley.edu/) advised by [Dr. Niloufar Salehi](http://niloufar.org). My research applies human-computer interaction (HCI) methods to study machine learning and data systems. I'm currently thinking about how we can build trustworthy systems by aligning modeling assumptions with real world needs and goals, and prioritizing user agency. My current projects include developing more reliable machine translation systems for high-stakes domains like healthcare, and exploring what participant engagement might look like in the context of large-scale menstrual health research. 
+:wave: Hi! I'm a fourth year Ph.D. candidate in [EECS](https://eecs.berkeley.edu/) at [U.C. Berkeley](https://www.berkeley.edu/) advised by [Dr. Niloufar Salehi](http://niloufar.org). My research applies human-computer interaction (HCI) methods to study machine learning and data systems. I'm currently thinking about how we can build trustworthy systems by aligning modeling assumptions with real world needs and goals, and prioritizing user agency. My current projects include developing more reliable machine translation systems for high-stakes domains like healthcare, and exploring what participant engagement might look like in the context of large-scale menstrual health research.
 
-During Summer 2022, I was an ML Research Intern on the Visualization team at Apple, supervised by [Dr. Fred Hohman](https://fredhohman.com/) and [Dr. Mary Beth Kery](https://marybethkery.com/).
+At Berkeley, I'm a member of [BAIR](https://bair.berkeley.edu/), the [Berkeley HCI Group](https://hci.berkeley.edu/) and the [EPIC Data Lab](https://epic.berkeley.edu/). During Summer 2022, I was an ML Research Intern on the Visualization team at Apple, supervised by [Dr. Fred Hohman](https://fredhohman.com/) and [Dr. Mary Beth Kery](https://marybethkery.com/).
