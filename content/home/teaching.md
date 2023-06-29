@@ -43,6 +43,7 @@ design:
   columns: 1
 ---
 
+- Human-Centered AI - Graduate Student Instructor, U.C. Berkeley, Spring 2023.
 - Artificial Intelligence in Medicine and Health Policy - Graduate Student Instructor, U.C. Berkeley, Fall 2020.
 - [Data Challenge Lab](https://datalab.stanford.edu/) - Teaching Assistant, Stanford University, Spring 2019.
 - Introduction to Computing at Stanford - Instructor, Stanford University, Fall 2018.
